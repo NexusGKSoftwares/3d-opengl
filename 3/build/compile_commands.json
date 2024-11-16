@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/nexusgk/Music/TangramProject/build",
+  "command": "/usr/bin/gcc  -I/home/nexusgk/Music/TangramProject/include -I/usr/include/GLFW -g -o CMakeFiles/OpenGLApp.dir/glad.c.o -c /home/nexusgk/Music/TangramProject/glad.c",
+  "file": "/home/nexusgk/Music/TangramProject/glad.c"
+},
+{
+  "directory": "/home/nexusgk/Music/TangramProject/build",
+  "command": "/usr/bin/g++  -I/home/nexusgk/Music/TangramProject/include -I/usr/include/GLFW -g -std=gnu++11 -o CMakeFiles/OpenGLApp.dir/main.cpp.o -c /home/nexusgk/Music/TangramProject/main.cpp",
+  "file": "/home/nexusgk/Music/TangramProject/main.cpp"
+}
+]

@@ -1,0 +1,3 @@
+/home/nexusgk/Music/TangramProject/build/CMakeFiles/OpenGLApp.dir
+/home/nexusgk/Music/TangramProject/build/CMakeFiles/edit_cache.dir
+/home/nexusgk/Music/TangramProject/build/CMakeFiles/rebuild_cache.dir
